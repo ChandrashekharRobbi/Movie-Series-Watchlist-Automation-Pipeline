@@ -18,9 +18,8 @@ No manual copy-paste. No missing details. Pure automation.
 
 ## 🚀 How It Works
 
-```
-User Input → OMDB API → Google Sheets (Validation Layer) → Notion Database
-```
+<img width="2573" height="1436" alt="image" src="https://github.com/user-attachments/assets/b8e84c4a-de50-4261-b138-4dcec2d50ebe" />
+
 
 ### 📌 Pipeline Flow
 
