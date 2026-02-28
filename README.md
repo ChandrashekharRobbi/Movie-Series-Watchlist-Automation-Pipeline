@@ -18,7 +18,11 @@ No manual copy-paste. No missing details. Pure automation.
 
 ## 🚀 How It Works
 
-<img width="2573" height="1436" alt="image" src="https://github.com/user-attachments/assets/b8e84c4a-de50-4261-b138-4dcec2d50ebe" />
+<!-- <img width="2573" height="1436" alt="image" src="https://github.com/user-attachments/assets/b8e84c4a-de50-4261-b138-4dcec2d50ebe" /> -->
+<!-- <img width="692" height="1944" alt="image" src="https://github.com/user-attachments/assets/0bac5ec7-d553-4fa8-8e4f-92b0aa228553" /> -->
+<img width="1954" height="188" alt="image" src="https://github.com/user-attachments/assets/2b48718d-03cb-403e-846c-3a32b9769438" />
+
+
 
 
 ### 📌 Pipeline Flow
